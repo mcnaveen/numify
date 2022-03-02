@@ -30,10 +30,10 @@ Import the module in your project:
 
 ```javascript
 // Commonjs Import
-var numify = require("numify");
+var { numify } = require("numify");
 
 // or ES6 import
-import numify from "numify";
+import { numify } from "numify";
 ```
 
 ### :bulb: Example
@@ -41,7 +41,7 @@ import numify from "numify";
 Pass the Number to the function
 
 ```javascript
-import numify from "numify";
+import { numify } from "numify";
 
 const number = numify(1000);
 console.log(number);
