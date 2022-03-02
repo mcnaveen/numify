@@ -1,0 +1,23 @@
+{
+  "name": "numify",
+  "version": "0.0.2",
+  "description": "Shortern long numbers to Human Readable K M B format",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcnaveen/numify.git"
+  },
+  "author": "mcnaveen <me@mcnaveen.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcnaveen/numify/issues"
+  },
+  "homepage": "https://github.com/mcnaveen/numify#readme",
+  "keywords":["numify","number","human","readable","k","M","B", "T", "shorten", "shorten-number"]
+}
