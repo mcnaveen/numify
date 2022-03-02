@@ -1,6 +1,6 @@
 {
   "name": "numify",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Shortern long numbers to Human Readable K M B format",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/mcnaveen/numify.git"
   },
   "author": "mcnaveen <me@mcnaveen.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mcnaveen/numify/issues"
   },
