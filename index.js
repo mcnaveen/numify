@@ -23,4 +23,4 @@ function numify(num) {
   );
 }
 
-module.exports = numify;
+module.exports.numify = numify;
