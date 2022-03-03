@@ -1,11 +1,16 @@
 # :1234: Numify :capital_abcd:
+
+![Build](https://github.com/mcnaveen/numify/workflows/Build/badge.svg) 
+![Downloads this Week](https://img.shields.io/npm/dw/numify) 
+![Bundle Size](https://img.shields.io/bundlephobia/min/numify)
+![Version](https://img.shields.io/npm/v/numify)
+
 ![Numify](./image/cover.png)
 
 :unicorn: Simple utility to convert long numbers to human readable format.
 
 :loudspeaker: Pronunced as "**Num-e-fy**"
 
-![Build](https://github.com/mcnaveen/numify/workflows/Build/badge.svg)
 
 ### :package: Requirements
 Node.js 12.x LTS or 14.x LTS
