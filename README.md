@@ -9,8 +9,17 @@
 
 :unicorn: Simple utility to convert long numbers to human readable format.
 
-:loudspeaker: Pronunced as "**Num-e-fy**"
+(:loudspeaker: Pronunced as "**Num-e-fy**")
 
+
+| :x: Without Numify         | :white_check_mark: With Numify        |
+|----------------------------|---------------------------------------|
+| 1000 Views                 | 1k Views                              |
+| 25000 Likes                | 25k Likes                             |
+| 30000 Retweets             | 30k Retweets                          |
+| 1000000 Followers          | 1M Followers                          |
+| 1000000000 Followers       | 1B Followers                          |
+| 1000000000000 Followers    | 1T Followers                          |
 
 ### :package: Requirements
 Node.js 12.x LTS or 14.x LTS
