@@ -1,6 +1,6 @@
 {
   "name": "numify",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Shortern long numbers to Human Readable K M B format",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
@@ -41,11 +41,25 @@
     "url": "https://github.com/mcnaveen/numify/issues"
   },
   "homepage": "https://github.com/mcnaveen/numify#readme",
-  "keywords":["numify","number","human","readable","k","M","B", "T", "shorten", "shorten-number"],
+  "keywords": [
+    "numify",
+    "number",
+    "human",
+    "readable",
+    "k",
+    "M",
+    "B",
+    "T",
+    "shorten",
+    "shorten-number"
+  ],
   "gacp": {
     "add": false,
     "push": false,
     "emoji": "emoji",
     "editor": false
+  },
+  "dependencies": {
+    "numify": "^1.0.1"
   }
 }
