@@ -61,12 +61,22 @@ import { numify } from "numify";
 
 const number = numify(1000);
 console.log(number);
+
+
+// With options
+const number = numify(23878437, {
+  formatType: "in", // "en", "de", "fr", "es", "it", "se"
+  precise: true,
+});
+
+console.log(number);
 ```
 
 ### :ballot_box_with_check: Example Output
 
 ```
-1K
+1K (English)
+23.9 Cr (Indian)
 ```
 
 ---

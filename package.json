@@ -1,6 +1,6 @@
 {
   "name": "numify",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "Shortern long numbers to Human Readable K M B format",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
