@@ -11,7 +11,7 @@
 
 Works with React, Vue, Svelte, and any other framework that supports ES6 modules.
 
-(:loudspeaker: Pronunced as "**Num-e-fy**")
+(:loudspeaker: Pronounced as "**Num-e-fy**")
 
 ### :bulb: Currently Supported Locales
 
