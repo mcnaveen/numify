@@ -7,9 +7,21 @@
 
 ![Numify](./image/cover.png)
 
-:unicorn: Simple utility to convert long numbers to human readable format.
+:unicorn: Zero dependency utility to convert long numbers to human readable format. Supports multiple locales and number formats.
+
+Works with React, Vue, Svelte, and any other framework that supports ES6 modules.
 
 (:loudspeaker: Pronunced as "**Num-e-fy**")
+
+### :bulb: Currently Supported Locales
+
+- `en` - English
+- `de` - German
+- `fr` - French
+- `es` - Spanish
+- `it` - Italian
+- `se` - Swedish
+- `in` - Indian (Lakhs, Crores, etc.)
 
 | :x: Without Numify      | :white_check_mark: With Numify |
 | ----------------------- | ------------------------------ |
@@ -22,7 +34,7 @@
 
 ### :package: Requirements
 
-Node.js 12.x LTS or 14.x LTS
+Node.js 18.x or above
 
 ### :sparkles: Installation
 
